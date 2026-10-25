@@ -1,17 +1,49 @@
 # '電気通信大' 出場種目リス
 
 http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-7-7-0-3-2-2-0-5_ResultTrackA.html
-
-
-# よくわからんやつ　臨時
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-1-0-7-1-1_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-3-0-7-2-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-29-0-7-1-1_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-18-0-7-12-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-15-0-7-1-1_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-7-0-7-2-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-5-0-7-3-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-4-0-7-12-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-33-0-7-3-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-32-0-7-12-5_TimeraceTeamListA.html
-http://sairiku.net/result/2026/ageo_1025/shtml/timeraceshukei/details/1-31-0-7-2-5_TimeraceTeamListA.html
+# 4h
+# t1500
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-5-7-0-2-3-3-0-5_ResultTrackA.html
+# o15
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-33-7-0-2-3-3-0-5_ResultTrackA.html
+# w 15 t
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-19-6-0-1-3-3-0-5_ResultTrackA.html
+# 幅
+http://sairiku.net/result/2026/ageo_1025/shtml/result/leap/20260908_1-12-6-0-1-6-6-0-3_ResultLeapB.html
+http://sairiku.net/result/2026/ageo_1025/shtml/result/leap/20260908_1-46-6-0-1-6-6-0-3_ResultLeapB.html
+#  t 100
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-1-7-0-9-1-1-0-1_ResultTrackA.html
+# o100
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-29-7-0-12-1-1-0-1_ResultTrackA.html
+# w t 100
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-15-7-0-2-1-1-0-1_ResultTrackA.html
+# w o 100
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-38-6-0-2-1-1-0-1_ResultTrackA.html
+# t 400
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-3-7-0-6-2-2-0-5_ResultTrackA.html
+# o 100
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-31-7-0-2-2-2-0-5_ResultTrackA.html
+# t w 400
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-17-6-0-1-2-2-0-5_ResultTrackA.html
+# t sc
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-8-6-0-1-3-3-0-5_ResultTrackA.html
+# t 800
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-4-7-0-5-12-12-0-5_ResultTrackA.html
+# o 800
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-32-7-0-2-12-12-0-5_ResultTrackA.html
+# t 200
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-2-7-0-7-1-1-0-1_ResultTrackA.html
+# o 200
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-30-7-0-4-1-1-0-1_ResultTrackA.html
+# t w 200
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-16-7-0-2-1-1-0-1_ResultTrackA.html
+# t 110
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-6-7-0-3-1-1-0-1_ResultTrackA.html
+# t 5000
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-27-6-0-1-3-3-0-5_ResultTrackA.html
+# o 5000
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-34-6-0-1-3-3-0-5_ResultTrackA.html
+# t 4 k
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-9-7-0-3-4-4-0-5_ResultTrackB.html
+# t 4 m
+http://sairiku.net/result/2026/ageo_1025/shtml/result/track/20260908_1-10-7-0-3-4-4-0-5_ResultTrackB.html
