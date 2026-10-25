@@ -40,6 +40,7 @@ def make_target_list_from_timetable():
             href = a["href"]
             # 相対パスを絶対URLに変換
             abs_url = urllib.parse.urljoin(TIMETABLE_URL, href)
+            print(f"発見したURL: {abs_url}")
 
             # TimeTable自身や重複URLをスキップ
             if abs_url == TIMETABLE_URL or abs_url in visited_urls:
