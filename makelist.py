@@ -11,7 +11,7 @@ TIMETABLE_URL = (
 )
 
 # 対象学校の略称（例: "〇〇高", "〇〇大"）
-TARGET_KEYWORD = "YOUR_TARGET_SCHOOL_NAME"
+TARGET_KEYWORD = "電気通信大"
 
 OUTPUT_FILE = "target2026.txt"
 
